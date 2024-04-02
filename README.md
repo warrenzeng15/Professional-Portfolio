@@ -14,6 +14,7 @@
     <h1>Welcome to my portfolio page! </h1>
 
     <b>Bio:</b>
+    <br>
     My name is Warren Zeng
     blah blah blah
 
