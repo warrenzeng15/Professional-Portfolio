@@ -7,12 +7,15 @@
     
     </style>
     
-    <hr>
     Warren Zeng
     <br>
     <a href="mailto:warrenzeng15@gmail.com">warrenzeng15@gmail.com</a>
 
     <h1>Welcome to my portfolio page! </h1>
+
+    <b>Bio:</b>
+    My name is Warren Zeng
+    blah blah blah
 
     
     <hr>
