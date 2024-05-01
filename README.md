@@ -16,6 +16,7 @@
     <b>Bio:</b>
     <br>
     Link to home page: <a href="https://warrenzeng15.github.io/Professional-Portfolio/home">Home</a>
+    <br>
 
     Thanks for visiting!
     <br>
